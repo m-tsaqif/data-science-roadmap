@@ -1,0 +1,4 @@
+RESOLUSI MATERI:
+1. Belajar Git & Github
+2. Membangun LinkedIn
+3. Belajar Basic Python
